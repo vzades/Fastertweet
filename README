@@ -1,0 +1,15 @@
+This is a desktop twitter client for linux it only send tweets . It is simplest and fastest way to send tweet .
+
+Dependencies:
+  Python  
+  Pyqt
+  tweepy ( twitter python api)
+
+Installing: 
+  It is packaged yet soon i will make yum and deb packages until then it can be run in following manner 
+  1.run onetime.py and authorize your twitter account
+  2.run fstertweet.py  to run the application  
+  
+
+Author: Vinay Jhedu
+License: GPL
